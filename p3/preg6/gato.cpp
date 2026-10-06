@@ -7,7 +7,7 @@ gato::gato(){
 }
 
 void gato::comercomida(comer *Comer, int x, int c) const{
-    printf("El gato esta comiendo\n");
+    printf("El gato esta comiendo pescado\n");
 }
 
 gato::~gato(){
