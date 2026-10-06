@@ -7,7 +7,7 @@ leon::leon(){
 }
 
 void leon::comercomida(comer *Comer, int x, int c) const{
-    printf("El leon esta comiendo\n");
+    printf("El leon esta comiendo carne\n");
 }
 
 leon::~leon(){
